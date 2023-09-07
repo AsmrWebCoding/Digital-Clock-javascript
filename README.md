@@ -3,4 +3,4 @@
 
 Make Digital Clock with JavaScript step by step tutorial for beginners
 
-watch video tutorial on youtube: 
+watch video tutorial on youtube: https://youtu.be/d-gNBWXbmhc
